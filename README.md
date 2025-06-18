@@ -1,7 +1,7 @@
 ### Hi, I'm Sharof Muqimov <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2puNnhydGdiZTZlNG0zeGgxZzY1eWJ1enphaW1kNzdnZmI2ZHc2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="40px">
 <br />
 <a href="https://t.me/Muq1mov_oo4" target="_blank">
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30px" top="50"></code>
+  <code><img src="https://imgs.search.brave.com/Q2dYB_SViJxAedcYUMqVUZ9VS4q14qB3Itls5SOfzAU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/dmVjdG9yLXByZW1p/dW0vaWNvbm8tbG9n/b3RpcG8tdmVjdG9y/LWluc3RhZ3JhbS1s/b2dvdGlwby1yZWRl/cy1zb2NpYWxlc185/MDE0MDgtMzkyLmpw/Zz9zZW10PWFpc19o/eWJyaWQmdz03NDA" height="30px" top="50"></code>
 </a>
 <a href="https://instagram.com/Warofjaan" target="_blank">
   <code><img src="https://imgs.search.brave.com/Hujkwgg2DMpaU6jltS9XAu7atwYr4iyIq_lk0tzwfBQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNi8w/OC8wOS8xNy81Mi9p/bnN0YWdyYW0tMTU4/MTI2Nl82NDAuanBn" height="30px" top="50"></code>
