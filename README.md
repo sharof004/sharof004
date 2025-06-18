@@ -1,1 +1,1 @@
-### Hi, I'm Sharof Muqimov <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nnb3BqbDQxdWZxM24xbjZyMWMxN2hrYWdnZ2M4eXRwczNvZHBsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NDBw4dLyyMeGiDilqS/giphy.gif" width="30px">
+### Hi, I'm Sharof Muqimov <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY3bTY4aHdlamVqYmM2N3FueWlrNjg4YjVlYmprcWo1ZmtqYzhjdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gM5qFksULw54NMWyry/giphy.webp" width="30px">
